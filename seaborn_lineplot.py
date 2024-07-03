@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 
 #lineplot from a dataframe
 
-# Create a DataFrame
 data = {
     'Month': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
     'Sales': [200, 210, 190, 300, 320, 350]
