@@ -82,7 +82,6 @@ plt.show()
 
 
 # Custom Tick Labels
-
 data = {
     'January': [30, 60, 20, 55, 65],
     'February': [32, 62, 22, 57, 67],
